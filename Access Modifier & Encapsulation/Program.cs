@@ -1,0 +1,13 @@
+﻿Car car = new Car();
+Bmw bmw = new Bmw();
+Mercedes mercedes = new Mercedes();
+bmw.Model = "190";
+Console.WriteLine(bmw.Model);
+bmw.TopSpeed = 200;
+Console.WriteLine(bmw.TopSpeed);
+mercedes.Engine = 0;
+Console.WriteLine(mercedes.Engine);
+mercedes.Km = 200;
+Console.WriteLine(mercedes.Km);
+bmw.Hp = 60;
+Console.WriteLine(bmw.Hp);

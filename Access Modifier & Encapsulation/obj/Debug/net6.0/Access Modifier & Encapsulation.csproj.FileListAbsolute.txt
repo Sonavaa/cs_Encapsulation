@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\P237\Access Modifier & Encapsulation\Access Modifier & Encapsulation\bin\Debug\net6.0\Access Modifier & Encapsulation.exe
+C:\Users\HP\Desktop\P237\Access Modifier & Encapsulation\Access Modifier & Encapsulation\bin\Debug\net6.0\Access Modifier & Encapsulation.deps.json
+C:\Users\HP\Desktop\P237\Access Modifier & Encapsulation\Access Modifier & Encapsulation\bin\Debug\net6.0\Access Modifier & Encapsulation.runtimeconfig.json
+C:\Users\HP\Desktop\P237\Access Modifier & Encapsulation\Access Modifier & Encapsulation\bin\Debug\net6.0\Access Modifier & Encapsulation.dll
+C:\Users\HP\Desktop\P237\Access Modifier & Encapsulation\Access Modifier & Encapsulation\bin\Debug\net6.0\Access Modifier & Encapsulation.pdb
+C:\Users\HP\Desktop\P237\Access Modifier & Encapsulation\Access Modifier & Encapsulation\obj\Debug\net6.0\Access Modifier & Encapsulation.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\P237\Access Modifier & Encapsulation\Access Modifier & Encapsulation\obj\Debug\net6.0\Access Modifier & Encapsulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\P237\Access Modifier & Encapsulation\Access Modifier & Encapsulation\obj\Debug\net6.0\Access Modifier & Encapsulation.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\P237\Access Modifier & Encapsulation\Access Modifier & Encapsulation\obj\Debug\net6.0\Access Modifier & Encapsulation.AssemblyInfo.cs
+C:\Users\HP\Desktop\P237\Access Modifier & Encapsulation\Access Modifier & Encapsulation\obj\Debug\net6.0\Access Modifier & Encapsulation.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\P237\Access Modifier & Encapsulation\Access Modifier & Encapsulation\obj\Debug\net6.0\Access Modifier & Encapsulation.dll
+C:\Users\HP\Desktop\P237\Access Modifier & Encapsulation\Access Modifier & Encapsulation\obj\Debug\net6.0\refint\Access Modifier & Encapsulation.dll
+C:\Users\HP\Desktop\P237\Access Modifier & Encapsulation\Access Modifier & Encapsulation\obj\Debug\net6.0\Access Modifier & Encapsulation.pdb
+C:\Users\HP\Desktop\P237\Access Modifier & Encapsulation\Access Modifier & Encapsulation\obj\Debug\net6.0\Access Modifier & Encapsulation.genruntimeconfig.cache
+C:\Users\HP\Desktop\P237\Access Modifier & Encapsulation\Access Modifier & Encapsulation\obj\Debug\net6.0\ref\Access Modifier & Encapsulation.dll
